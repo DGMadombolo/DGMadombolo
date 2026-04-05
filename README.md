@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>I'm an ICT graduate specializing in application development, with a strong focus on backend systems.<br><br>I enjoy building real-world projects, automating processes, and exploring cybersecurity concepts. Most of my work is done in a Linux environment, where I push myself to learn beyond the classroom.<br><br>Currently, I'm working on systems that combine development and security, with the goal of becoming a skilled backend engineer who builds scalable and secure applications.
 
 
